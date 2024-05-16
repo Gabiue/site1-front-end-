@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(45deg, #f0803c, #edf060 );
+
+}
+header{
+    background-color:#171219;
+    color: white;
+    padding: 10px;
+    width: 100%;    
+    font-family: "Lora", serif;
+}
+.containerheader{
+    margin: 0 auto;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.imgheader{
+    width: 6%;
+    position: relative;
+    
+    
+}
+.nomeheader{
+    width: 44%;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+    font-size: 40px;
+    position: relative;
+    left: 
+}
+.contactus{
+    text-align: center;
+    width: 25%;
+    font-size: 18px ;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    cursor: pointer;
+   
+
+}
+
+
+.navbar{
+    text-align: right;
+    width: 25%;
+    font-size: 18px ;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    cursor: pointer;
+   
+
+    
+}
+
+.imgheader img{
+    width: 80px;
+}
+
+.content{
+    border: 1px solid;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: white;
+}
+.content h2{
+   padding: 20px; 
+}
+.content img{
+    float: right;
+    width: 250px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 5px;
+    
+}
+.content p{
+   
+}
+.teste{
+    border: 1px solid;
+    display: inline-block;
+}
